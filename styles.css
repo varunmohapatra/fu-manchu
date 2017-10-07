@@ -59,7 +59,7 @@ p{
 }
 
 .first-section{
-  background-image: linear-gradient(0deg,rgba(0,0,0,0.85),rgba(0,0,0,0.9)), url("./images/founderoid_bg.jpg");
+  background-image: linear-gradient(0deg,rgba(0, 6, 39, 0.85),rgba(0,0,0,0.9)), url("./images/founderoid_bg.jpg");
   background-size: cover;
   background-color: #000;
   min-height: 600px;
